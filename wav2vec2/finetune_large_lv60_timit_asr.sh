@@ -21,3 +21,4 @@ python run_asr.py \
 --group_by_length \
 --freeze_feature_extractor \
 --verbose_logging \
+.
